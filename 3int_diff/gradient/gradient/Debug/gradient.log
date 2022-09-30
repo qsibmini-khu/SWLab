@@ -1,0 +1,12 @@
+﻿  GDescendmain.cpp
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDlinearFn.h(8,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDlinearFn.h(9,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDlinearFn.h(10,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDlinearFn.h(11,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDescendmain.cpp(19,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDescendmain.cpp(19,34): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDescendmain.cpp(21,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDescendmain.cpp(21,28): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDescendmain.cpp(23,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\gradient\GDescendmain.cpp(23,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  gradient.vcxproj -> C:\Users\Suh_surface\Desktop\cNumericalAnalysis\sources\gradient\Debug\gradient.exe

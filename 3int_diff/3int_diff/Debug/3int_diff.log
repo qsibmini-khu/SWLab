@@ -1,0 +1,3 @@
+﻿  precisionTest.cpp
+C:\Users\suh\class\cSWLab\sources\3int_diff\3int_diff\precisionTest.cpp(4,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  3int_diff.vcxproj -> C:\Users\suh\class\cSWLab\sources\3int_diff\Debug\3int_diff.exe

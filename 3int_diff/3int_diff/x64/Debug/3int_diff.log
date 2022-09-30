@@ -1,0 +1,6 @@
+﻿  x3y2.cpp
+C:\Users\suh\class\cSWLab\sources\3int_diff\3int_diff\x3y2.cpp(10,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\suh\class\cSWLab\sources\3int_diff\3int_diff\x3y2.cpp(10,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\suh\class\cSWLab\sources\3int_diff\3int_diff\x3y2.cpp(11,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\suh\class\cSWLab\sources\3int_diff\3int_diff\x3y2.cpp(11,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  3int_diff.vcxproj -> C:\Users\suh\class\cSWLab\sources\3int_diff\x64\Debug\3int_diff.exe
