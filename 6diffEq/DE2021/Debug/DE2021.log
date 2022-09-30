@@ -1,0 +1,3 @@
+﻿  DEnonLinear.cpp
+C:\Users\suh\class\cSWLab\sources\6diffEq\DE2021\DE2021\DEnonLinear.cpp(5,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  DE2021.vcxproj -> C:\Users\suh\class\cSWLab\sources\6diffEq\DE2021\Debug\DE2021.exe
