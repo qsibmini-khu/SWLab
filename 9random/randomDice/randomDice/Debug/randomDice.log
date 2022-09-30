@@ -1,0 +1,4 @@
+﻿  tetris.cpp
+C:\Users\suh\class\cSWLab\sources\9random\randomDice\randomDice\tetris.cpp(5,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\suh\class\cSWLab\sources\9random\randomDice\randomDice\tetris.cpp(14,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  randomDice.vcxproj -> C:\Users\suh\class\cSWLab\sources\9random\randomDice\Debug\randomDice.exe
